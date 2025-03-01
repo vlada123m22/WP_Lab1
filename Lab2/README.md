@@ -23,7 +23,9 @@ This is a landing page for an HTML and CSS course
 * Desktop
 ![image](https://github.com/user-attachments/assets/7fd1e663-07a0-47fb-81ad-693587f9d95e)
  * Mobile
-   ![image](https://github.com/user-attachments/assets/a5dc1fb7-7a04-4609-9916-82831e00b677)
+
+
+![image](https://github.com/user-attachments/assets/a5dc1fb7-7a04-4609-9916-82831e00b677)
 ![image](https://github.com/user-attachments/assets/008d7862-82e7-4e0e-aa42-d03386214f60)
 
 
